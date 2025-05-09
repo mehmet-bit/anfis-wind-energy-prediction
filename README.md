@@ -39,3 +39,5 @@ This project analyzes wind SCADA data for one year and builds predictive models 
 - `WindDATA.ipynb` – Python preprocessing & feature extraction
 - `T1_cleaned_tableu.xlsx` – Cleaned dataset for modeling & visualization
 -  MATLAB `.fis` or training script for reproducibility
+## 📁 Dataset
+This dataset was sourced from [https://www.kaggle.com/datasets/berkerisen/wind-turbine-scada-dataset]
