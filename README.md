@@ -1,0 +1,1 @@
+# anfis-wind-energy-prediction
