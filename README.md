@@ -38,4 +38,4 @@ This project analyzes wind SCADA data for one year and builds predictive models 
 ## 🧾 Files in this Repo
 - `WindDATA.ipynb` – Python preprocessing & feature extraction
 - `T1_cleaned_tableu.xlsx` – Cleaned dataset for modeling & visualization
-- (Optional) MATLAB `.fis` or training script for reproducibility
+-  MATLAB `.fis` or training script for reproducibility
